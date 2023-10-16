@@ -1,4 +1,4 @@
-buku = ["ayah", "ibu", "kakak", "adek"]
+buku = ["laskar pelangi", "laskar pelangi 2", "laskar pelangi 3", "laskar pelangi 4"]
 def show_data():
     if len(buku) <= 0:
         print("belum ada data")
